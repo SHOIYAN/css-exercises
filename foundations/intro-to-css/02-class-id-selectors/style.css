@@ -5,3 +5,12 @@
 .large {
     font-size: 24px;
 }
+#num2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+#num4{
+    background-color: #81FE80;
+    font-size: 24px;
+    font-weight: bold;
+}
